@@ -51,7 +51,7 @@ Exploratory data analysis is done to answer the questions listed below.
 19. Which time of the day do customers give the most ratings?
 20. Which time of the day do customers give the most ratings per branch?
 21. Which day of the week has the best average ratings?
-22. Which day of the week has the best average ratings per branch?
+22. Which day of the week has the best average ratings per branch? 
 
 
 
