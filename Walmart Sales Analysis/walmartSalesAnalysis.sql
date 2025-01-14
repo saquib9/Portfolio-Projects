@@ -2,7 +2,7 @@
 Project: Walmart Sales Analysis
 Query Language: MySQL
 Dataset: https://github.com/saquib9/Portfolio-Projects/blob/main/Portfolio-Projects/Walmart-Sales-Analysis/WalmartSalesData.csv
-*/ 
+*/  
 
 CREATE DATABASE IF NOT EXISTS walmart_sales_data;
 CREATE TABLE IF NOT EXISTS sales(
