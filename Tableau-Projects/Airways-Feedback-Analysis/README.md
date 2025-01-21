@@ -2,6 +2,8 @@
 
 This Tableau dashboard visualizes customer reviews of British Airways from March 2016 to October 2023. It provides insights into average ratings across various service categories, trends over time, geographic distribution, and aircraft-specific feedback.
 
+![image](https://github.com/user-attachments/assets/2a72c04c-f57f-4227-ac27-d6470b9b19c2)
+
 ## Key Features
 1. Metrics Overview: Displays average ratings for overall service, cabin staff, entertainment, food, ground service, seat comfort, and value for money.
 2. Trends Analysis: Line chart showing the trend of average ratings over time.
