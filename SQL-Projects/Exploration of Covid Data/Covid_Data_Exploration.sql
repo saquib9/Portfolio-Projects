@@ -17,7 +17,7 @@ ORDER BY 3,4
 
 -- DATA BY LOCATION/COUNTRIES
 
--- Select Data that we are going to be using
+-- Select Data that I will use
 
 SELECT location, date, total_cases, new_cases, total_deaths, population
 FROM CovidProject..CovidDeaths
